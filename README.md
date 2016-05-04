@@ -5,7 +5,7 @@ Vertical autorunner flash game. Jump on walls and evade a volcano's wrath!
 
 Made in [Flixel library](http://www.flixel.org/) (ActionScript 3) using [FlashDevelop IDE](http://www.flashdevelop.org/). Sound effects were generated with [SFXR](http://www.drpetter.se/project_sfxr.html).
 
-Music created by [Genclops](http://soundcloud.com/Genclops)
+Music was created by [Genclops](http://soundcloud.com/Genclops)
 
 Kindly send me a massage if you have any suggestions, criticisms, or questions for the source code or game! I can be reached at:  
 Personal Site: [mantis1.newgrounds.com](http://mantis1.newgrounds.com/)  
