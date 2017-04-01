@@ -1,4 +1,4 @@
-# Abyss
+# Bird Hop
 Vertical autorunner flash game. Jump on walls and evade a volcano's wrath!
 
 [Play game now!](http://www.newgrounds.com/portal/view/646556)
